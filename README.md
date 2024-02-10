@@ -3,6 +3,7 @@
 
 ## 💫 About Me:
 🔭 I'm 22 years old and a student. I am still learning and discovering new things
+<br>
 🌱 I'm currently learning React.
 
 ## 💻 Tech Stack:
