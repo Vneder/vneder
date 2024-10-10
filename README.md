@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Junior Web Developer</h3>
 
 ## 💫 About Me:
-🔭 I'm 22 years old and a student. I am still learning and discovering new things
+🔭 I'm 23 years old and a student. I am still learning and discovering new things
 <br>
 🌱 I'm currently learning React.
 
